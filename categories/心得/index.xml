@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>心得 on TAIWAN找茶</title>
+    <link>https://Jason-DataExplorer.github.io/categories/%E5%BF%83%E5%BE%97/</link>
+    <description>Recent content in 心得 on TAIWAN找茶</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 12 Aug 2021 04:24:00 +0800</lastBuildDate><atom:link href="https://Jason-DataExplorer.github.io/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taiwan找茶官網上線啦！</title>
+      <link>https://Jason-DataExplorer.github.io/blog/test/</link>
+      <pubDate>Thu, 12 Aug 2021 04:24:00 +0800</pubDate>
+      
+      <guid>https://Jason-DataExplorer.github.io/blog/test/</guid>
+      <description>Taiwan 找茶官方網站正式啟航啦！
+小編覺得既期待又怕受傷害xd
+今天主要是來練習Markdown語法
+我是一級標題 我發現，前後加上2個星號可以加粗字體耶！
+我是二級標題 然後呀，前後各一個星號 就是斜體的樣子~~~
+我是四級標題  有序序列的標題一  我也可以縮排  縮~縮~我再縮~     我是標題二 都打&amp;quot;1.</description>
+    </item>
+    
+  </channel>
+</rss>
